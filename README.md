@@ -16,7 +16,7 @@ Currently, I'm enhancing my skills by working on coding challenges, learning new
 - **Programming Languages**: Python, JavaScript, C++
 - **Web Development**: HTML, CSS, JavaScript, React.js, Bootstrap
 - **Tools**: Git, VS Code, Postman, MongoDB
-- **Learning**: Data Structures, Algorithms, React.js, AI/ML
+- **Learning**: Data Structures, Algorithms, System Design and AI/ML.
 
 ## 📫 How to Reach Me
 
