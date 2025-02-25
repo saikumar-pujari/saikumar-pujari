@@ -21,9 +21,7 @@ Currently, I'm enhancing my skills by working on coding challenges, learning new
 ## 📫 How to Reach Me
 
 - 📧 Email:Saikumarpujari2005@gmail.com
-- 💼 LinkedIn:Saikumar.pujari
-
-
+- 💼 LinkedIn:www.linkedin.com/in/saikumarpujarii
 ---
 
 Feel free to connect with me and let's collaborate!
