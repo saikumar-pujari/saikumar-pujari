@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
 
-### **Development**  
+### **Development** --Doing Passively!!
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)  
@@ -43,8 +43,8 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sai@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/saikumarpujarii)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)]([Coming Soon])  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:saikumarpujari2005@gmail.com)  
 
 📌 **"Building scalable solutions & contributing to real-world tech."** 🚀  
