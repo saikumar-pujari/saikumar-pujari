@@ -1,32 +1,50 @@
-# Hello, I'm SAIKUMAR👋
+# 🚀 Hi, I'm Sai! | SDE Aspirant | AI Researcher | Open Source Contributor  
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
+- 🎓 **Computer Science Student (4th Sem)** | Passionate about **Software Development, DSA, and AI Research**.  
+- 💡 **Currently Working On:*AI in Wireless Communication *  
+  - 🛠️ **Currently Building my own Operating System from scratch**  
+  - 🤖 **AI & Deep Learning Research**  
+  - 🌐 **Full-Stack Web Development & System Design**  
+- 💻 **Solved 100+ DSA problems on Leetcode & geeksforgeeks**  
+- 🏆 **Hackathon Participant & Open Source Contributor**  
+- 📜 **Researching AI & System-Level Development**  
 
-I'm a passionate **2nd-year Computer Science** student at **Sir M. Visvesvaraya Institute of Technology**, focused on **Data Structures & Algorithms (DSA)** and **Web Development** (Frontend). I enjoy solving complex coding problems, building creative web projects, and exploring the world of Artificial Intelligence.
-
-Currently, I'm enhancing my skills by working on coding challenges, learning new frameworks, and contributing to open-source projects. I am also looking forward to gaining hands-on experience with **AI projects** and **backend development** in the coming months.
-
-- 🔭 I’m currently working on improving my **DSA** skills and building web development projects.
-- 🌱 I’m learning **React.js**, **Node.js**, and **AI/ML** concepts.
-- 💬 Ask me about **JavaScript**, **Python**, **DSA**, and **Frontend Web Development**.
-- ⚡ Fun fact: I love solving algorithmic problems and participating in hackathons.
-
-## 🚀 Technologies & Tools
-
-- **Programming Languages**: Python, JavaScript, C++
-- **Web Development**: HTML, CSS, JavaScript, React.js, Bootstrap
-- **Tools**: Git, VS Code, Postman, MongoDB
-- **Learning**: Data Structures, Algorithms, System Design and AI/ML.
-
-## 📫 How to Reach Me
-
-- 📧 Email:Saikumarpujari2005@gmail.com
-- 💼 LinkedIn:www.linkedin.com/in/saikumarpujarii
 ---
 
-Feel free to connect with me and let's collaborate!
+## 📂 Featured Projects  
+🔹 **[Custom OS from Scratch](#)** – Building a minimal OS to understand low-level programming & kernel development.  
+🔹 **[Full-Stack Web App](#)** – Scalable project using React, Node.js, and MongoDB.  
+🔹 **[AI Research Repo](#)** – Deep Learning-based research with TensorFlow & PyTorch.  
 
-<!---
-saikumar-pujari/saikumar-pujari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ My Tech Stack  
+### **Languages**  
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)  
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)  
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+
+### **Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)  
+
+---
+
+## 📊 GitHub Stats  
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)](#)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sai@example.com)  
+
+📌 **"Building scalable solutions & contributing to real-world tech."** 🚀  
