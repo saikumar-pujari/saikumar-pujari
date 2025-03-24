@@ -5,7 +5,7 @@
 - 💡 **Currently Working On:*AI in Wireless Communication *  
   - 🛠️ **Currently Building my own Operating System from scratch**  
   - 🤖 **AI & Deep Learning Research**  
-  - 🌐 **Full-Stack Web Development & System Design**  
+  - 🌐 **Backend Web Development & System Design**  
 - 💻 **Solved 100+ DSA problems on Leetcode & geeksforgeeks**  
 - 🏆 **Hackathon Participant & Open Source Contributor**  
 - 📜 **Researching AI & System-Level Development**  
