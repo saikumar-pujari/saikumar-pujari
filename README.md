@@ -37,9 +37,10 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=saikumar-pujari&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pujari&layout=compact&theme=radical)
+
 
 ---
 
