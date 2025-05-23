@@ -2,8 +2,7 @@
 
 ## 👨‍💻 About Me  
 - 🎓 **Computer Science Student (4th Sem)** | Passionate about **Software Development, DSA, and AI Research**.  
-- 💡 **Currently Working On:*AI in Wireless Communication *  
-  - 🛠️ **Currently Building my own Operating System from scratch**  
+- 💡 **Currently Working On:*Backend developing Skills*  
   - 🤖 **AI & Deep Learning Research**  
   - 🌐 **Backend Web Development & System Design**  
 - 💻 **Solved 100+ DSA problems on Leetcode & geeksforgeeks**  
@@ -12,26 +11,30 @@
 
 ---
 
-## 📂 Featured Projects  
-🔹 **[Custom OS from Scratch](#)** – Building a minimal OS to understand low-level programming & kernel development.  
-🔹 **[Full-Stack Web App](#)** – Scalable project using React, Node.js, and MongoDB.  
-🔹 **[AI Research Repo](#)** – Deep Learning-based research with TensorFlow & PyTorch.  
-
----
-
 ## 🛠️ My Tech Stack  
 ### **Languages**  
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)  
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)  
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+  ### 🛠️ Tech Stack  
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+  ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat&logo=python&logoColor=white)  
+  ![Favicon](https://img.shields.io/badge/-Favicon-0A0A0A?style=flat&logo=google-chrome&logoColor=white)
+
 
 ### **Development** --Doing Passively!!
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
-### ***OS**
+- Backend Frameworks:  
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+
+- Databases:  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)  
 
 ---
