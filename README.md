@@ -52,6 +52,22 @@
 
 ---
 
+### 📈 Coding Profiles
+
+<p float="left" align="center">
+  <a href="https://www.geeksforgeeks.org/user/saikumarpujari/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2EC866?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nikhil07052004" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://leetcode.com/u/saikumar_pujari/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="40" />
+  </a>
+</p>
+
+---
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)] (www.linkedin.com/in/saikumarpujarii)  
 
