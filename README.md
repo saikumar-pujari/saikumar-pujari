@@ -31,6 +31,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
+### ***OS**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)  
 
 ---
