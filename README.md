@@ -13,17 +13,19 @@
 
 ## 🛠️ My Tech Stack  
 ### **Languages**  
-  ### 🛠️ Tech Stack  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
-  ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat&logo=python&logoColor=white)  
-  ![Favicon](https://img.shields.io/badge/-Favicon-0A0A0A?style=flat&logo=google-chrome&logoColor=white)
+<p float="left" align="center">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Tkinter-FF6F00?style=flat&logo=python&logoColor=white" alt="Tkinter" height="40" />
+</p>
+
 
 
 ### **Development** --Doing Passively!!
