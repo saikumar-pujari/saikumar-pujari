@@ -13,8 +13,11 @@
 
 ## 🛠️ My Tech Stack  
 ### **Languages**  
+### 🛠️ Tech Stack
+
 <p float="left" align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="40" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="40" style="margin-right: 10px;" />
@@ -25,7 +28,6 @@
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="40" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Tkinter-FF6F00?style=flat&logo=python&logoColor=white" alt="Tkinter" height="40" />
 </p>
-
 
 
 ### **Development** --Doing Passively!!
