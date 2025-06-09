@@ -44,11 +44,11 @@
 ---
 
 ## 📊 GitHub Stats  
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-pujari&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pujari&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-pujari&theme=radical" height="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pujari&layout=compact&theme=radical" height="200" />
 </p>
 
 
