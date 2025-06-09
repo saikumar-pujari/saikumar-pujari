@@ -1,77 +1,78 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://in.pinterest.com/pin/582934745558402094/" width="100%">
+# 🚀 Hi, I'm Sai! | SDE Aspirant | AI Researcher | Open Source Contributor  
+
+## 👨‍💻 About Me  
+- 🎓 **Computer Science Student (4th Sem)** | Passionate about **Software Development, DSA, and AI Research**.  
+- 💡 **Currently Working On:*Backend developing Skills*  
+  - 🤖 **AI & Deep Learning Research**  
+  - 🌐 **Backend Web Development & System Design**  
+- 💻 **Solved 100+ DSA problems on Leetcode & geeksforgeeks**  
+- 🏆 **Hackathon Participant & Open Source Contributor**  
+- 📜 **Researching AI & System-Level Development**  
+
+---
+
+## 🛠️ My Tech Stack  
+### **Languages**  
+### 🛠️ Tech Stack
+
+<p float="left" align="center">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Tkinter-FF6F00?style=flat&logo=python&logoColor=white" alt="Tkinter" height="40" />
 </p>
 
-# 🙏 Namaste, I'm Skipper
 
-🎧 *"Code flows like a river when you're tuned into the rhythm."*
+### **Development** --Doing Passively!!
+- Backend Frameworks:  
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+
+- Databases:  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)  
 
 ---
 
-## 🧠 About Me
+## 📊 GitHub Stats  
 
-I'm a Computer Science undergrad on a mission to bridge logic with creativity.  
-🔧 Backend Enthusiast | 🧮 DSA Adventurer | 🧱 System Design Lover | 🌐 Web Wizard  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikumar-pujari&theme=radical)
 
-🛠️ Currently building:
-- Full-stack projects with Django + PostgreSQL
-- Scalable REST APIs
-- SQL magic (with a hint of Python Pandas)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pujari&layout=compact&theme=radical)
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" width="300">
+
+---
+
+### 📈 Coding Profiles
+
+<p float="left" align="center">
+  <a href="https://www.geeksforgeeks.org/user/saikumarpujari/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2EC866?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nikhil07052004" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://leetcode.com/u/saikumar_pujari/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="40" />
+  </a>
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)] (www.linkedin.com/in/saikumarpujarii)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/saikumarpujarii)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your-email@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)] ([Coming Soon])  
 
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)] (mailto:saikumarpujari2005@gmail.com)  
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="400">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="400">
-
----
-
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-333?logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b)
-![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
-
----
-
-## 📂 Highlight Projects
-
-🧠 **AI / ML Mini Projects**  
-🔍 **System Design Notes & Diagrams**  
-📚 **Backend Mini Projects with Django REST API**
-
----
-
-## 🌆 Moodboard
-
-<img src="https://in.pinterest.com/pin/190206784255541821/" width="100%" />
-
----
-
-## 🖼️ Final Vibe
-
-<img src="https://in.pinterest.com/pin/3377768466992274/" width="100%" />
-
----
-
-## ☕ Support Me
-
-[![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?logo=buymeacoffee)](https://buymeacoffee.com/your-link)
+📌 **"Building scalable solutions & contributing to real-world tech."** 🚀
