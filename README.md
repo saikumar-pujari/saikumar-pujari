@@ -44,10 +44,12 @@
 ---
 
 ## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikumar-pujari&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pujari&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-pujari&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pujari&layout=compact&theme=radical" width="48%">
+</p>
 
 
 ---
