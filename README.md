@@ -4,7 +4,8 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; color: #333; line-height: 1.4; max-width: 500px; width: 50%; word-wrap: break-word;">
       <strong>👨‍💻 About Me</strong><br>
-      - 🎓 Computer Science Student (4th Sem) | Passionate about Software Development, DSA, and AI Research.<br>
+      - 🎓 Computer Science Student (4th Sem)<br>
+      - 🌐 Passionate about Software Development, DSA, and AI Research.<br>
       - 💡 Currently Working On: Backend developing Skills<br>
       &nbsp;&nbsp;&nbsp;&nbsp;- 🤖 AI & Deep Learning Research<br>
       &nbsp;&nbsp;&nbsp;&nbsp;- 🌐 Backend Web Development & System Design<br>
