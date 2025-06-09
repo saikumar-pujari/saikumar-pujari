@@ -1,78 +1,75 @@
-# 🚀 Hi, I'm Sai! | SDE Aspirant | AI Researcher | Open Source Contributor  
+<h1 align="center">Hi 👋, I'm SaiKumar Pujari</h1>
+<h3 align="center">🚀 SDE Aspirant | AI Researcher | Open Source Contributor</h3>
 
-## 👨‍💻 About Me  
-- 🎓 **Computer Science Student (4th Sem)** | Passionate about **Software Development, DSA, and AI Research**.  
-- 💡 **Currently Working On:*Backend developing Skills*  
-  - 🤖 **AI & Deep Learning Research**  
-  - 🌐 **Backend Web Development & System Design**  
-- 💻 **Solved 100+ DSA problems on Leetcode & geeksforgeeks**  
-- 🏆 **Hackathon Participant & Open Source Contributor**  
-- 📜 **Researching AI & System-Level Development**  
+<img align="center" src="https://github.com/saikumar-pujari/saikumar-pujari/blob/main/gitkul.jpg" alt="SaiKumar banner" style="width:100%; border-radius: 10px;" />
 
 ---
 
-## 🛠️ My Tech Stack  
-### **Languages**  
-### 🛠️ Tech Stack
+## 🔥 MasterJudge here 🔥
 
-<p float="left" align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Tkinter-FF6F00?style=flat&logo=python&logoColor=white" alt="Tkinter" height="40" />
+🙏 **Namaste!** I'm Sai — a passionate coder and creative thinker blending tech and impact.
+
+### 👨‍💻 About Me
+- 🎓 **Computer Science Student (4th Sem)**  
+- 💡 **Currently Working On:**  
+  - 🌐 Backend Development (Django & Flask)  
+  - 🤖 AI & Deep Learning Research  
+- 💻 **Solved 100+ DSA problems** (LeetCode + GFG)  
+- 🏆 **Hackathon Participant & Open Source Contributor**  
+- 📜 Deeply into System Design and Low-Level Dev  
+- 🚀 "Building scalable solutions & contributing to real-world tech."
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+---
 
-### **Development** --Doing Passively!!
-- Backend Frameworks:  
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+## 📊 GitHub Stats
 
-- Databases:  
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-pujari&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pujari&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikumar-pujari&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pujari&layout=compact&theme=radical)
-
-
----
-
-### 📈 Coding Profiles
+## 🧠 Coding Profiles
 
 <p float="left" align="center">
   <a href="https://www.geeksforgeeks.org/user/saikumarpujari/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2EC866?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="40" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2EC866?style=flat&logo=geeksforgeeks&logoColor=white" height="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/nikhil07052004" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" height="40" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" height="40" />
   </a>
   <a href="https://leetcode.com/u/saikumar_pujari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="40" />
   </a>
 </p>
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)] (www.linkedin.com/in/saikumarpujarii)  
+## 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)] ([Coming Soon])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saikumarpujarii)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:saikumarpujari2005@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)] (mailto:saikumarpujari2005@gmail.com)  
+---
 
-📌 **"Building scalable solutions & contributing to real-world tech."** 🚀  
+> _“Code is not just a skill. It's a superpower. Use it to build, to learn, and to inspire.”_
+
