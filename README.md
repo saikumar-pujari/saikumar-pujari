@@ -1,28 +1,23 @@
 # 🚀 Hi, I'm Sai! | SDE Aspirant | AI Researcher | Open Source Contributor  
 
-<div style="display: flex; align-items: flex-start; gap: 20px; max-width: 900px;">
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; color: #333; line-height: 1.4; max-width: 500px; width: 50%; word-wrap: break-word;">
+      <strong>👨‍💻 About Me</strong><br>
+      - 🎓 Computer Science Student (4th Sem) | Passionate about Software Development, DSA, and AI Research.<br>
+      - 💡 Currently Working On: Backend developing Skills<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;- 🤖 AI & Deep Learning Research<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;- 🌐 Backend Web Development & System Design<br>
+      - 💻 Solved 100+ DSA problems on Leetcode & GeeksforGeeks<br>
+      - 🏆 Hackathon Participant & Open Source Contributor<br>
+      - 📜 Researching AI & System-Level Development
+    </td>
+    <td style="vertical-align: top; width: 40%;">
+      <img src="https://corizo.in/wp-content/uploads/2025/01/Online-Coding-classes-for-Kids-_-ZugZwang-Academy.gif" alt="Coding Gif" height="180" style="border-radius: 10px; object-fit: cover;">
+    </td>
+  </tr>
+</table>
 
-  <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; font-weight: normal; color: #333; line-height: 1.4; max-width: 700px;">
-
-    ## 👨‍💻 About Me  
-    - 🎓 Computer Science Student (4th Sem) | Passionate about Software Development, DSA, and AI Research.  
-    - 💡 Currently Working On: Backend developing Skills  
-      - 🤖 AI & Deep Learning Research  
-      - 🌐 Backend Web Development & System Design  
-    - 💻 Solved 100+ DSA problems on Leetcode & GeeksforGeeks  
-    - 🏆 Hackathon Participant & Open Source Contributor  
-    - 📜 Researching AI & System-Level Development  
-
-  </div>
-
-  <div>
-    <img src="https://corizo.in/wp-content/uploads/2025/01/Online-Coding-classes-for-Kids-_-ZugZwang-Academy.gif" 
-         alt="Coding Gif" 
-         height="180" 
-         style="border-radius: 10px; object-fit: cover;" />
-  </div>
-
-</div>
 
 ---
 
