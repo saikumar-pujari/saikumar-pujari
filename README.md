@@ -1,23 +1,25 @@
 # 🚀 Hi, I'm Sai! | SDE Aspirant | AI Researcher | Open Source Contributor  
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; color: #333; line-height: 1.4; max-width: 500px; width: 50%; word-wrap: break-word;">
-      <strong>👨‍💻 About Me</strong><br>
-      - 🎓 Computer Science Student (4th Sem)<br>
-      - 🌐 Passionate about Software Development, DSA, and AI Research.<br>
-      - 💡 Currently Working On: Backend developing Skills<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;- 🤖 AI & Deep Learning Research<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;- 🌐 Backend Web Development & System Design<br>
-      - 💻 Solved 100+ DSA problems on Leetcode & GeeksforGeeks<br>
-      - 🏆 Hackathon Participant & Open Source Contributor<br>
-      - 📜 Researching AI & System-Level Development
-    </td>
-    <td style="vertical-align: top; width: 40%;">
-      <img src="https://corizo.in/wp-content/uploads/2025/01/Online-Coding-classes-for-Kids-_-ZugZwang-Academy.gif" alt="Coding Gif" height="180" style="border-radius: 10px; object-fit: cover;">
-    </td>
-  </tr>
-</table>
+<div style="overflow: hidden; max-width: 900px;">
+
+  <img src="https://corizo.in/wp-content/uploads/2025/01/Online-Coding-classes-for-Kids-_-ZugZwang-Academy.gif" 
+       alt="Coding Gif" 
+       height="180" 
+       style="float: left; margin-right: 20px; border-radius: 10px; object-fit: cover;"/>
+
+  <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; font-weight: normal; color: #333; line-height: 1.4;">
+    <strong>👨‍💻 About Me</strong><br>
+    - 🎓 Computer Science Student (4th Sem)<br>
+    - 🌐 Passionate about Software Development, DSA, and AI Research.<br>
+    - 💡 Currently Working On: Backend developing Skills<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- 🤖 AI & Deep Learning Research<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- 🌐 Backend Web Development & System Design<br>
+    - 💻 Solved 100+ DSA problems on Leetcode & GeeksforGeeks<br>
+    - 🏆 Hackathon Participant & Open Source Contributor<br>
+    - 📜 Researching AI & System-Level Development
+  </div>
+
+</div>
 
 
 ---
