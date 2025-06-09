@@ -1,5 +1,6 @@
-# 🚀 Hi, I'm Sai! 
-###| SDE Aspirant | AI Researcher | Open Source Contributor  |##
+<h1 align="center">Hi 👋, I'm Sai!</h1>
+
+<h3 align="center">| SDE Aspirant | AI Researcher | Open Source Contributor |</h3>
 
 ## 👨‍💻 About Me
 
@@ -12,16 +13,7 @@
 - 🏆 Hackathon Participant & Open Source Contributor  
 - 📜 Researching AI & System-Level Development  
 
----
-
-<div style="width: 100%; overflow: hidden;">
-  <img 
-    src="https://corizo.in/wp-content/uploads/2025/01/Online-Coding-classes-for-Kids-_-ZugZwang-Academy.gif" 
-    alt="Coding Gif" 
-    style="width: 100%; height: auto; object-fit: contain; border-radius: 10px;" 
-  />
-</div>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="amiya559" /> </p>
 ---
 
 ## 🛠️ My Tech Stack  
