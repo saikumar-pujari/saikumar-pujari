@@ -2,25 +2,27 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px; max-width: 900px;">
 
-<div style="flex: 1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; color: #333; line-height: 1.5;">
+  <div>
+    <img src="https://corizo.in/wp-content/uploads/2025/01/Online-Coding-classes-for-Kids-_-ZugZwang-Academy.gif" 
+         alt="Coding Gif" 
+         height="180" 
+         style="border-radius: 10px; object-fit: cover;" />
+  </div>
 
-## 👨‍💻 About Me
-- 🎓 **Computer Science Student (4th Sem)** | Passionate about **Software Development, DSA, and AI Research**.  
-- 💡 **Currently Working On:** Backend developing Skills  
-  - 🤖 **AI & Deep Learning Research**  
-  - 🌐 **Backend Web Development & System Design**  
-- 💻 **Solved 100+ DSA problems on Leetcode & GeeksforGeeks**  
-- 🏆 **Hackathon Participant & Open Source Contributor**  
-- 📜 **Researching AI & System-Level Development**  
+  <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; font-weight: normal; color: #333; line-height: 1.4; max-width: 700px;">
+
+    ## 👨‍💻 About Me  
+    - 🎓 Computer Science Student (4th Sem) | Passionate about Software Development, DSA, and AI Research.  
+    - 💡 Currently Working On: Backend developing Skills  
+      - 🤖 AI & Deep Learning Research  
+      - 🌐 Backend Web Development & System Design  
+    - 💻 Solved 100+ DSA problems on Leetcode & GeeksforGeeks  
+    - 🏆 Hackathon Participant & Open Source Contributor  
+    - 📜 Researching AI & System-Level Development  
+
+  </div>
 
 </div>
-
-<div>
-  <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="Skipper's Profile Pic" height="200" style="border-radius: 12px; object-fit: cover;" />
-</div>
-
-</div>
-
 
 ---
 
