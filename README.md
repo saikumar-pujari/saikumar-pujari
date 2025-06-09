@@ -1,13 +1,13 @@
 # 🚀 Hi, I'm Sai! | SDE Aspirant | AI Researcher | Open Source Contributor  
 
-## 👨‍💻 About Me  
-- 🎓 **Computer Science Student (4th Sem)** | Passionate about **Software Development, DSA, and AI Research**.  
-- 💡 **Currently Working On:*Backend developing Skills*  
-  - 🤖 **AI & Deep Learning Research**  
-  - 🌐 **Backend Web Development & System Design**  
-- 💻 **Solved 100+ DSA problems on Leetcode & geeksforgeeks**  
-- 🏆 **Hackathon Participant & Open Source Contributor**  
-- 📜 **Researching AI & System-Level Development**  
+| 👨‍💻 About Me | ![Profile Pic](your-image-link.jpg) |
+|--------------|------------------------------------|
+| - 🎓 **Computer Science Student (4th Sem)** | <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="Skipper's Pic" height="200"/> |
+| - 💡 **Currently Working On:** Backend developing Skills<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 🤖 **AI & Deep Learning Research**<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 🌐 **Backend Web Development & System Design** |  |
+| - 💻 **Solved 100+ DSA problems on Leetcode & GeeksforGeeks** |  |
+| - 🏆 **Hackathon Participant & Open Source Contributor** |  |
+| - 📜 **Researching AI & System-Level Development** |  |
+
 
 ---
 
