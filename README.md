@@ -1,70 +1,77 @@
-![Banner](./banner.gif)
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Skipper-GPT/skipper-assets/main/banner.gif" width="100%">
+</p>
 
-# 🙏 Namaste! I'm Skipper
+# 🙏 Namaste, I'm Skipper
 
-🎯 **Backend Developer | Code Artist | Digital Explorer**  
-I'm currently pursuing a Bachelor's degree in Computer Science, actively sharpening my backend development skills and diving deeper into the art of system design. I'm a believer in building from the ground up — understanding the core, optimizing what matters, and leaving a touch of elegance in every function I write.
-
----
-
-## 📌 About Me
-
-![Dev Image](./e29dfbed-7ed7-4c75-94f5-4df1d48bf95f.jpeg)
-
-- 🎓 **4th Semester, CSE** @ Sir MVIT  
-- 💻 Proficient in Python (Django/Flask), C++, SQL  
-- 🧠 Learning DSA, System Design, OS Concepts  
-- 🚀 Active on GitHub: Building side-projects, solving problems, exploring open source
-- 🧩 Future Goals: Land a MeitY Internship | FAANG-level backend dev
+🎧 *"Code flows like a river when you're tuned into the rhythm."*
 
 ---
 
-## 🔗 Connect With Me
+## 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikumarpujarii)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+I'm a Computer Science undergrad on a mission to bridge logic with creativity.  
+🔧 Backend Enthusiast | 🧮 DSA Adventurer | 🧱 System Design Lover | 🌐 Web Wizard  
+
+🛠️ Currently building:
+- Full-stack projects with Django + PostgreSQL
+- Scalable REST APIs
+- SQL magic (with a hint of Python Pandas)
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/Skipper-GPT/skipper-assets/main/e29dfbed.jpeg" width="300">
+</p>
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/saikumarpujarii)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your-email@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/your-username)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Skipper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="400">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="400">
 
 ---
 
-## 🛠️ Languages & Tools I Use
+## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-## 🔥 Best Repositories
-
-### 🧠 **AI & Backend Projects**
-> Featuring projects in Django REST APIs, Flask microservices, and Python automation scripts.
-
-### 📊 **DSA & Problem Solving**
-> LeetCode, GeeksForGeeks, and Contest Problems solved with clean, optimal C++ code.
+![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b)
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
 
 ---
 
-## 💼 Tech Stack
+## 📂 Highlight Projects
 
-`Python` `Django` `Flask` `C++` `MySQL` `PostgreSQL` `Linux` `Git` `Docker`
-
----
-
-## 🌃 Support My Work
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/skipper)
+🧠 **AI / ML Mini Projects**  
+🔍 **System Design Notes & Diagrams**  
+📚 **Backend Mini Projects with Django REST API**
 
 ---
 
-![Cityscape](./Black%20and%20White%20Aesthetic%20Desktop%20Wallpaper%201.jpeg)
+## 🌆 Moodboard
+
+<img src="https://raw.githubusercontent.com/Skipper-GPT/skipper-assets/main/city.jpeg" width="100%" />
+
+---
+
+## 🖼️ Final Vibe
+
+<img src="https://raw.githubusercontent.com/Skipper-GPT/skipper-assets/main/mountains.jpeg" width="100%" />
+
+---
+
+## ☕ Support Me
+
+[![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?logo=buymeacoffee)](https://buymeacoffee.com/your-link)
