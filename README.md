@@ -68,7 +68,7 @@ I'm a Computer Science undergrad on a mission to bridge logic with creativity.
 
 ## 🖼️ Final Vibe
 
-<img src="https://in.pinterest.com/pin/7036943162225977/" width="100%" />
+<img src="https://in.pinterest.com/pin/3377768466992274/" width="100%" />
 
 ---
 
