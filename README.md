@@ -14,7 +14,6 @@
 - 📜 Researching AI & System-Level Development  
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="amiya559" /> </p>
----
 
 ## 🛠️ My Tech Stack  
 ### **Languages**  
@@ -83,3 +82,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)] (mailto:saikumarpujari2005@gmail.com)  
 
 📌 **"Building scalable solutions & contributing to real-world tech."** 🚀
+
+<h1 align="center">Core Values</h1>
+
+- Lifelong Learning: Continuously updating my skills and knowledge.
+
+- Collaboration: Strong believer in the power of teamwork.
+
+- Quality-Driven: Commitment to writing clean, efficient, and maintainable code.
