@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Skipper-GPT/skipper-assets/main/banner.gif" width="100%">
+  <img src="https://in.pinterest.com/pin/582934745558402094/" width="100%">
 </p>
 
 # 🙏 Namaste, I'm Skipper
@@ -20,7 +20,7 @@ I'm a Computer Science undergrad on a mission to bridge logic with creativity.
 - SQL magic (with a hint of Python Pandas)
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Skipper-GPT/skipper-assets/main/e29dfbed.jpeg" width="300">
+  <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" width="300">
 </p>
 
 ---
@@ -62,13 +62,13 @@ I'm a Computer Science undergrad on a mission to bridge logic with creativity.
 
 ## 🌆 Moodboard
 
-<img src="https://raw.githubusercontent.com/Skipper-GPT/skipper-assets/main/city.jpeg" width="100%" />
+<img src="https://in.pinterest.com/pin/190206784255541821/" width="100%" />
 
 ---
 
 ## 🖼️ Final Vibe
 
-<img src="https://raw.githubusercontent.com/Skipper-GPT/skipper-assets/main/mountains.jpeg" width="100%" />
+<img src="https://in.pinterest.com/pin/7036943162225977/" width="100%" />
 
 ---
 
