@@ -1,49 +1,58 @@
-<h1 align="center">Hi 👋, I'm Sai!</h1>
-
-<h3 align="center">| SDE Aspirant | AI Researcher | Open Source Contributor |</h3>
-
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student (4th Sem)  
-- 🌐 Passionate about Software Development, DSA, and AI Research.  
-- 💡 Currently Working On: Backend developing Skills  
-  - 🤖 AI & Deep Learning Research  
-  - 🌐 Backend Web Development & System Design  
-- 💻 Solved 100+ DSA problems on Leetcode & GeeksforGeeks  
-- 🏆 Hackathon Participant & Open Source Contributor  
-- 📜 Researching AI & System-Level Development  
+I'm **Sai**, a 4th semester Computer Science & Engineering student, driven by backend logic, system design, and emerging AI tech.  
+I'm building a strong foundation in full-stack development while exploring intelligent systems and the science behind them.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="amiya559" /> </p>
+---
 
-## 🛠️ My Tech Stack  
-### **Languages**  
+### ⚙️ Core Technical Interests
+
+- **Backend Engineering**  
+  Django (CBVs, ORM, Signals), REST APIs, scalable architecture
+
+- **Data Structures & Algorithms**  
+  Focused on problem-solving (Leetcode/Codeforces), with daily coding practice
+
+- **Database Systems**  
+  Proficient in SQL (PostgreSQL, SQLite), schema design, query optimization, indexing & normalization  
+  Currently exploring NoSQL systems (MongoDB)
+
+- **Computer Networks**  
+  Strong grasp of **IP addressing**, **subnetting**, DNS, HTTP/HTTPS, and packet flow  
+  Hands-on with Wireshark and basic socket programming
+
+- **Shell Scripting & Linux**  
+  Writing bash scripts for automation and systems control  
+  Comfortably navigating Linux environments and system tools
+
+- **Generative AI & Case Studies**  
+  Fascinated by the potential of Gen AI (like GPT, Stable Diffusion)  
+  Studying real-world AI case studies:  
+  - AI in healthcare diagnosis  
+  - Recommendation systems in e-commerce  
+  - NLP-powered chatbots and AI assistants  
+  - Prompt engineering and fine-tuning LLMs
+
+---
+
 ### 🛠️ Tech Stack
 
-<p float="left" align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="40" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Tkinter-FF6F00?style=flat&logo=python&logoColor=white" alt="Tkinter" height="40" />
-</p>
+- **Languages:** Python, C++, Bash  
+- **Web/Backend:** Django, Flask (beginner), HTML5, CSS3, JavaScript  
+- **Databases:** PostgreSQL, SQLite3, MySQL (basic)  
+- **Tools:** Git, GitHub, VS Code, Postman, Linux CLI  
+- **Others:** Docker (learning), OpenAI API (exploring)
 
+---
 
-### **Development** --Doing Passively!!
-- Backend Frameworks:  
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+### 🔭 Current Focus (June–August 2025)
 
-- Databases:  
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)  
+- 🚀 Master Django models, signals, and admin customization  
+- 💡 Finish a series of AI case studies and document insights  
+- 🧠 Level up in DSA with a focus on searching, sorting, and dynamic programming  
+- 🌐 Build and deploy full-stack Django projects with PostgreSQL  
+- 🤖 Explore GenAI prompts and model behavior in real-world use cases  
+- 📡 Improve networking concepts with hands-on labs and packet tracing
 
 ---
 
@@ -80,13 +89,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)] ([Coming Soon])  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)] (mailto:saikumarpujari2005@gmail.com)  
-
-📌 **"Building scalable solutions & contributing to real-world tech."** 🚀
-
-<h1 align="center">Core Values</h1>
-
-- Lifelong Learning: Continuously updating my skills and knowledge.
-
-- Collaboration: Strong believer in the power of teamwork.
-
-- Quality-Driven: Commitment to writing clean, efficient, and maintainable code.
