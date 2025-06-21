@@ -1,9 +1,8 @@
+<h1 align="center">Hey there, I'm Sai 👋</h1>
 <h5 align="left">
-## 👨‍💻 About Me
-
-Hi, I'm **Sai** — a 4th semester Computer Science & Engineering student, deeply passionate about backend logic, system design, and the emerging world of AI.
-
-I'm currently building a strong foundation in full-stack web development while actively exploring intelligent systems and the science that powers them.
+<h5 align="center">
+A 4th semester Computer Science & Engineering student passionate about backend logic, system design, and the magic of AI. I'm currently laying a solid foundation in Back-end development while exploring intelligent systems and the science behind them.
+</h5>
 
 ---
 
