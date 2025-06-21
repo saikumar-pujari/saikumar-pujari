@@ -1,91 +1,60 @@
-## 👨‍💻 About Me
+<h5 align="left">## 👨‍💻 About Me<br><br>I'm **Sai**, a 4th semester Computer Science & Engineering student, driven by backend logic, system design, and emerging AI tech.  <br>I'm building a strong foundation in full-stack development while exploring intelligent systems and the science behind them.<br><br>---<br><br>
+### ⚙️ Core Technical Interests<br><br>- **Backend Engineering**  <br>  Django (CBVs, ORM, Signals), REST APIs, scalable architecture<br><br>- **Data Structures & Algorithms**  <br>  Focused on problem-solving (Leetcode/Codeforces), with daily coding practice<br><br>- **Database Systems**  <br>  Proficient in SQL (PostgreSQL, SQLite), schema design, query optimization, indexing & normalization  <br>  Currently exploring NoSQL systems (MongoDB)<br><br>- **Computer Networks**  <br>  Strong grasp of **IP addressing**, **subnetting**, DNS, HTTP/HTTPS, and packet flow  <br>  Hands-on with Wireshark and basic socket programming<br><br>- **Shell Scripting & Linux**  <br>  Writing bash scripts for automation and systems control  <br>  Comfortably navigating Linux environments and system tools<br><br>- **Generative AI & Case Studies**  <br>  Fascinated by the potential of Gen AI (like GPT, Stable Diffusion)  <br>  Studying real-world AI case studies:  <br>  - AI in healthcare diagnosis  <br>  - Recommendation systems in e-commerce  <br>  - NLP-powered chatbots and AI assistants  <br>  - Prompt engineering and fine-tuning LLMs</h5>
 
-I'm **Sai**, a 4th semester Computer Science & Engineering student, driven by backend logic, system design, and emerging AI tech.  
-I'm building a strong foundation in full-stack development while exploring intelligent systems and the science behind them.
+###
 
----
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumar-pujari&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### ⚙️ Core Technical Interests
+###
 
-- **Backend Engineering**  
-  Django (CBVs, ORM, Signals), REST APIs, scalable architecture
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- **Data Structures & Algorithms**  
-  Focused on problem-solving (Leetcode/Codeforces), with daily coding practice
+###
 
-- **Database Systems**  
-  Proficient in SQL (PostgreSQL, SQLite), schema design, query optimization, indexing & normalization  
-  Currently exploring NoSQL systems (MongoDB)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- **Computer Networks**  
-  Strong grasp of **IP addressing**, **subnetting**, DNS, HTTP/HTTPS, and packet flow  
-  Hands-on with Wireshark and basic socket programming
+###
 
-- **Shell Scripting & Linux**  
-  Writing bash scripts for automation and systems control  
-  Comfortably navigating Linux environments and system tools
+<br clear="both">
 
-- **Generative AI & Case Studies**  
-  Fascinated by the potential of Gen AI (like GPT, Stable Diffusion)  
-  Studying real-world AI case studies:  
-  - AI in healthcare diagnosis  
-  - Recommendation systems in e-commerce  
-  - NLP-powered chatbots and AI assistants  
-  - Prompt engineering and fine-tuning LLMs
+<img src="https://raw.githubusercontent.com/saikumar-pujari/saikumar-pujari/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-- **Languages:** Python, C++, Bash  
-- **Web/Backend:** Django, Flask (beginner), HTML5, CSS3, JavaScript  
-- **Databases:** PostgreSQL, SQLite3, MySQL (basic)  
-- **Tools:** Git, GitHub, VS Code, Postman, Linux CLI  
-- **Others:** Docker (learning), OpenAI API (exploring)
+###
 
----
+<br clear="both">
 
-### 🔭 Current Focus (June–August 2025)
+<h4 align="left">The only master of my truth!!</h4>
 
-- 🚀 Master Django models, signals, and admin customization  
-- 💡 Finish a series of AI case studies and document insights  
-- 🧠 Level up in DSA with a focus on searching, sorting, and dynamic programming  
-- 🌐 Build and deploy full-stack Django projects with PostgreSQL  
-- 🤖 Explore GenAI prompts and model behavior in real-world use cases  
-- 📡 Improve networking concepts with hands-on labs and packet tracing
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-pujari&theme=radical" height="200" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pujari&layout=compact&theme=radical" height="200" />
-</p>
-
-
----
-
-### 📈 Coding Profiles
-
-<p float="left" align="center">
-  <a href="https://www.geeksforgeeks.org/user/saikumarpujari/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2EC866?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/nikhil07052004" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" height="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://leetcode.com/u/saikumar_pujari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="40" />
-  </a>
-</p>
-
----
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)] (www.linkedin.com/in/saikumarpujarii)  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)] ([Coming Soon])  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)] (mailto:saikumarpujari2005@gmail.com)  
+###
