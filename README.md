@@ -1,8 +1,56 @@
-<br clear="both">
+<h1 align="center">Hey, I’m SaiKumar 👋</h1>
+<h3 align="center">CS Undergrad | Backend Dev | AI Explorer | DSA Grinder</h3>
 
-<h5 align="left"><h1 align="center">Hey there, I'm Sai 👋</h1><br><h5 align="left"><br><h5 align="center"><br>A 4th semester Computer Science & Engineering student passionate about backend logic, system design, and the magic of AI. I'm currently laying a solid foundation in Back-end development while exploring intelligent systems and the science behind them.<br></h5><br><br>---<br><br>
-### ⚙️ Core Technical Interests<br><br>- **Backend Engineering**  <br>  Django (CBVs, ORM, Signals), REST APIs, scalable backend architecture<br><br>- **Data Structures & Algorithms**  <br>  Daily practice on platforms like LeetCode and Codeforces, focused on deep problem-solving and pattern mastery<br><br>- **Database Systems**  <br>  Proficient in SQL (PostgreSQL, SQLite), with solid understanding of schema design, query optimization, indexing, and normalization  <br>  Currently exploring NoSQL solutions (MongoDB)<br><br>- **Computer Networks**  <br>  Strong grasp of IP addressing, subnetting, DNS, HTTP/HTTPS protocols, and packet flow analysis  <br>  Hands-on experience with tools like **Wireshark** and basic **socket programming**<br><br>- **Shell Scripting & Linux**  <br>  Comfortable in Linux environments, writing Bash scripts for automation, monitoring, and system-level tasks<br><br>- **Generative AI & Case Studies**  <br>  Actively exploring GenAI tools like **GPT** and **Stable Diffusion**  <br>  Learning through real-world AI case studies, including:  <br>  - AI in healthcare diagnostics  <br>  - Recommendation engines in e-commerce  <br>  - NLP-driven chatbots and assistants  <br>  - Prompt engineering & fine-tuning of LLMs<br>  <br></h5></h5>
+---
 
+<p align="center">
+  🚀 4th Semester CSE Student, building a solid foundation in <strong>Backend Engineering</strong> while exploring the fascinating world of <strong>AI systems</strong>. 
+  I believe great systems are built from the inside out — and that’s exactly where I operate.
+</p>
+
+---
+
+### ⚙️ Core Tech Interests
+
+- 🔧 **Backend Development**
+  - Django (CBVs, ORM, Signals), REST APIs
+  - Designing scalable, robust backend architectures
+
+ - 🧠 **Data Structures & Algorithms**
+  - Solving daily on <strong>LeetCode</strong>, <strong>Codeforces</strong>, and <strong>HackerEarth</strong>
+  - Focused on patterns, problem types, and time-space tradeoffs
+  - Passionate about competitive programming and algorithmic thinking
+
+- 🗃️ **Database Systems**
+  - Proficient in SQL (PostgreSQL, SQLite)
+  - Skilled in schema design, indexing, normalization
+  - Currently diving into NoSQL (MongoDB)
+
+- 🌐 **Computer Networks**
+  - Solid foundation in IP, DNS, HTTP/S, and packet analysis
+  - Hands-on with **Wireshark**, basic **socket programming**
+
+- 🐚 **Shell Scripting & Linux**
+  - Fluent in Bash scripting for automation and monitoring
+  - Comfortable in CLI-heavy environments
+
+- 🧪 **Generative AI & Case Studies**
+  - Exploring tools like **GPT** & **Stable Diffusion**
+  - Studying real-world applications:
+    - 🏥 AI in healthcare diagnostics
+    - 🛒 Recommendation engines in e-commerce
+    - 🗣️ NLP-driven chatbots and assistants
+    - 🧠 Prompt engineering & LLM fine-tuning
+
+---
+
+### 🛠️ Currently Building & Learning
+
+- 🏗️ Backend mini-projects using Django CBVs
+- 📚 Deep-diving into OS, DBMS, and CN for academic + real-world application
+- 🧩 Exploring how AI meets backend logic in system design
+
+---
 ###
 
 <br clear="both">
@@ -96,3 +144,12 @@
 <h4 align="left">The only master of my truth!!</h4>
 
 ###
+### 🧩 Let’s Connect
+
+- 🌐 Portfolio: *https://saikumar-pujari.netlify.app/*
+- 💬 Ping me to talk about code, projects, or random AI ideas!
+- ⚡ Motto: *Think deep. Build clean. Stay curious.*
+
+---
+
+> _“The backend is the brain, AI is the magic, and I’m here to wire them both together.”_
