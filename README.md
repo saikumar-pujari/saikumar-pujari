@@ -130,6 +130,9 @@
 
 ![Snake animation](https://raw.githubusercontent.com/saikumar-pujari/saikumar-pujari/output/snake.svg?palette=github-dark&v=2)
 
+![Snake animation](https://raw.githubusercontent.com/saikumar-pujari/saikumar-pujari/output/snake.svg?palette=github-dark)
+
+
 
 ###
 
