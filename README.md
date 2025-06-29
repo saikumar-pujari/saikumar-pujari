@@ -132,6 +132,9 @@
 
 ![Snake animation](https://raw.githubusercontent.com/saikumar-pujari/saikumar-pujari/output/snake.svg?palette=github-dark)
 
+![Snake animation](https://raw.githubusercontent.com/saikumar-pujari/saikumar-pujari/output/snake.svg?palette=github-dark&color_snake=#FF00FF&color_dots=#00FF00,#32CD32,#ADFF2F,#7FFF00&background=00000000)
+
+
 
 
 ###
