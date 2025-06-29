@@ -128,6 +128,9 @@
 
 <img src="https://raw.githubusercontent.com/saikumar-pujari/saikumar-pujari/output/snake.svg" alt="Snake animation" />
 
+![Snake animation](https://raw.githubusercontent.com/saikumar-pujari/saikumar-pujari/output/snake.svg?palette=github-dark&v=2)
+
+
 ###
 
 <div align="left">
