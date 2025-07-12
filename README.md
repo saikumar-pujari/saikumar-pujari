@@ -63,8 +63,9 @@
 ---
 
 <div align="center">
-  [GitHub Streak](https://streak-stats.demolab.com?user=saikumar-pujari&theme=tokyonight&hide_border=true)
-  <img src="https://streak-stats.demolab.com?user=saikumar-pujari&theme=tokyonight&hide_border=false" height="150" />
+  ## 🔥 My GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=saikumar-pujari&theme=tokyonight&hide_border=true)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumar-pujari&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
 
