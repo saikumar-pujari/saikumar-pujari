@@ -63,10 +63,7 @@
 ---
 
 <div align="center">
-  ## 🔥 My GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saikumar-pujari&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=saikumar-pujari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumar-pujari&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
 
