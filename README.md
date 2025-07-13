@@ -14,6 +14,7 @@
 
 - 🔧 **Backend Development**
   - Django (CBVs, ORM, Signals), REST APIs
+  - Flask(templates,models,Forms)
   - Designing scalable, robust backend architectures
 
 - 🧠 **Data Structures & Algorithms**
@@ -22,25 +23,9 @@
   - Passionate about competitive programming and algorithmic thinking
 
 - 🗃️ **Database Systems**
-  - Proficient in SQL (PostgreSQL, SQLite)
+  - Proficient in SQL (SQLSERVER, SQLite)
   - Skilled in schema design, indexing, normalization
-  - Currently diving into NoSQL (MongoDB)
-
-- 🌐 **Computer Networks**
-  - Solid foundation in IP, DNS, HTTP/S, and packet analysis
-  - Hands-on with **Wireshark**, basic **socket programming**
-
-- 🐚 **Shell Scripting & Linux**
-  - Fluent in Bash scripting for automation and monitoring
-  - Comfortable in CLI-heavy environments
-
-- 🧪 **Generative AI & Case Studies**
-  - Exploring tools like **GPT** & **Stable Diffusion**
-  - Studying real-world applications:
-    - 🏥 AI in healthcare diagnostics  
-    - 🛒 Recommendation engines in e-commerce  
-    - 🗣️ NLP-driven chatbots and assistants  
-    - 🧠 Prompt engineering & LLM fine-tuning  
+  - Currently diving into SQL (SQLSERVER)
 
 ---
 
