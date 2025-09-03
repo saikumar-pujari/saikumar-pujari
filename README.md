@@ -49,7 +49,7 @@
 
 ### 🧩 Let’s Connect
 
-- 🌐 Portfolio: [saikumar-pujari.netlify.app](https://saikumar-pujari.netlify.app/)
+- 🌐 Portfolio: [saikumar-pujari](https://saikumar.me)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saikumarpujarii/)
 - 💻 [GitHub](https://github.com/saikumar-pujari)
 - 🧠 [LeetCode](https://leetcode.com/u/saikumar_pujari/)
