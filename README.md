@@ -2,7 +2,7 @@
 <h3 align="center">CS Undergrad | Backend Dev | AI Explorer | DSA Grinder</h3>
 
 <p align="center">
-  🚀 4th Semester CSE Student, building a solid foundation in <strong>Backend Engineering</strong> while exploring the fascinating world of <strong>AI systems</strong>. 
+  🚀 5th Semester CSE Student, building a solid foundation in <strong>Backend Engineering</strong> while exploring the fascinating world of <strong>AI systems</strong>. 
   I believe great systems are built from the inside out — and that’s exactly where I operate.
 </p>
 
