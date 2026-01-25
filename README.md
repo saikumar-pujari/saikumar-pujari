@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I’m Sai 👋</h1>
+
 ### ⚙️ Core Tech Interests
 
 - 🔧 **Backend Development**
@@ -16,15 +17,7 @@
   - Skilled in schema design, indexing, normalization
   - Currently diving into SQL (SQLSERVER)
 
-### 🛠️ Tools & Technologies
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,jest,storybook,bash,bootstrap,c,css,flask,git,github,html,java,linux,mongodb,mysql,powershell,py,sqlite" height="40" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" />
-</div>
 
 ### 🛡️ Coding Contributions
 <div align="center">
