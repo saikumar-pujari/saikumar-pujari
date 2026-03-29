@@ -2,20 +2,63 @@
 
 ### ⚙️ Core Tech Interests
 
-- 🔧 **Backend Development**
-  - Django (CBVs, ORM, Signals), REST APIs
-  - Flask(templates,models,Forms)
-  - Designing scalable, robust backend architectures
+## 🔧 Backend Development
 
-- 🧠 **Data Structures & Algorithms**
+- Architecting and building **scalable, production-ready backend systems**
+
+### Django
+- Strong expertise in **Django**
+  - Class-Based Views (CBVs)
+  - Custom User Models & Authentication Systems
+  - ORM optimization, QuerySets & Managers
+  - Signals and business logic handling
+  - Complex data modeling and relationships
+
+### Django REST Framework (API Based Only)
+- Designing and developing **RESTful APIs**
+  - APIView, GenericAPIView, Mixins, ViewSets
+  - Token-based & custom authentication
+  - Serialization, validation, and API structuring
+  - Secure and scalable API design
+
+### Flask(System archt only)
+- Experience with **Flask**
+  - Templates, Models, Forms
+  - Lightweight backend development
+  - Rapid prototyping and modular applications
+
+### Databases
+- Working with **SQL Server**
+  - Setup, authentication, and troubleshooting
+  - Writing efficient queries
+  - Basic indexing and performance optimization
+
+### Performance & Caching
+- Implementing caching strategies
+  - Reducing database load
+  - Improving response time
+  - Understanding cache invalidation
+
+### System Design & Architecture
+- Designing clean, scalable architectures
+  - Modular and reusable code
+  - Separation of concerns
+  - Maintainable backend systems
+
+### Authentication & Authorization
+- Building secure systems
+  - Custom authentication flows
+  - Role-based access control (RBAC)
+  - Secure password handling
+
+- **Data Structures & Algorithms**
   - Solving daily on <strong>LeetCode</strong>, <strong>Codeforces</strong>, and <strong>HackerEarth</strong>
-  - Focused on patterns, problem types, and time-space tradeoffs
-  - Passionate about competitive programming and algorithmic thinking
+  - Focused on tradeoffs which fits the backend and concepts which link towards the use-case in system.
 
-- 🗃️ **Database Systems**
-  - Proficient in SQL (SQLSERVER, SQLite)
+-  **Database Systems**
+  - Proficient in SQL,SQLSERVER(SSMS), SQLite3,Postgress,cassandra,Redis(as in memory DB).
   - Skilled in schema design, indexing, normalization
-  - Currently diving into SQL (SQLSERVER)
+  - Currently diving into SQL (SQLSERVER) and Redis
 
 
 
